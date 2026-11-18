@@ -26,7 +26,7 @@ curl -sS -X POST \
 
 You get the transcript `text`, plus title, channel, description, thumbnail, view count, the caption language, and whether the captions were auto-generated. A video that can't be fetched comes back as a row with `success: false` and a plain-English reason, and is not charged.
 
-## Guides
+## Guides {#guides}
 
 <div class="cards">
   <div class="card"><h3><a href="docs/get-youtube-transcript-without-api-key.md">Without the YouTube Data API</a></h3><p>Why the official API can't do it, and the one-request alternative.</p></div>
