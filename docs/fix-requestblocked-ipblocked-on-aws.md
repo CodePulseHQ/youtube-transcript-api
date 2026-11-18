@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Fix YouTube transcript RequestBlocked and IpBlocked on AWS and cloud servers"
+description: "Why YouTube transcript scripts work locally but fail on AWS, Vercel or a VPS, and five ways to fix it, from caching to residential proxies to a hosted API."
+---
+
 # Fix: YouTube transcript script works locally but gets RequestBlocked / IpBlocked on AWS or a cloud server
 
 **Symptoms**

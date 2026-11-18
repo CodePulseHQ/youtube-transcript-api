@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Download YouTube subtitles as SRT or VTT without downloading the video"
+description: "Get YouTube captions as SRT or WebVTT files with an API call or yt-dlp, without downloading the video."
+---
+
 # Download YouTube subtitles as SRT or VTT without downloading the video
 
 ## With the Actor

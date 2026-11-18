@@ -1,0 +1,21 @@
+title: YouTube Transcript API
+tagline: Transcripts of any YouTube video, playlist or channel. No API key.
+description: Get YouTube transcripts without the YouTube Data API. Runnable examples and guides for Python, JavaScript, curl, MCP and n8n: fix RequestBlocked and IpBlocked on AWS, RAG chunking with timestamps, bulk channel downloads, SRT and VTT.
+url: https://codepulsehq.github.io
+baseurl: /youtube-transcript-api
+lang: en
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collection: false
+exclude:
+  - README.md
+  - LICENSE
+  - examples
+  - Gemfile
+header_pages: []
+show_excerpts: false

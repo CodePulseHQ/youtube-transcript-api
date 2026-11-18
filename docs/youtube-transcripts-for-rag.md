@@ -1,3 +1,9 @@
+---
+layout: default
+title: "YouTube transcripts for RAG: chunking with timestamps you can cite"
+description: "Turn YouTube videos into embedding-ready chunks with start and end times, and link every answer back to the exact second."
+---
+
 # YouTube transcripts for RAG: chunking with timestamps you can cite
 
 To build a chatbot or search over YouTube videos you need three things: the transcript text, chunks small enough to embed, and a way to send the user back to the exact moment a chunk came from.

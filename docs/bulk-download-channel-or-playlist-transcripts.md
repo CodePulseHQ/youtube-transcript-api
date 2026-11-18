@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Bulk download transcripts for a YouTube channel or playlist"
+description: "Get the transcript of every video in a channel or playlist in one run, with a spend cap, plus the DIY route with yt-dlp."
+---
+
 # How to bulk download transcripts for a YouTube channel or playlist
 
 ## With the Actor (one run)

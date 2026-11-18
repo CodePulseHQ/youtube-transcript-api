@@ -1,3 +1,9 @@
+---
+layout: default
+title: "YouTube transcript API comparison: library vs yt-dlp vs official API vs hosted"
+description: "How the open-source libraries, yt-dlp, the official YouTube Data API and hosted services compare on cost, cloud reliability, playlists and output formats."
+---
+
 # Comparing ways to get YouTube transcripts
 
 Written by the team that makes the Actor linked below, so weigh it accordingly. The comparison is about the approach, not about naming competitors.

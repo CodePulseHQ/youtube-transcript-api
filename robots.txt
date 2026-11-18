@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://codepulsehq.github.io/youtube-transcript-api/sitemap.xml

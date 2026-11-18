@@ -1,3 +1,9 @@
+---
+layout: default
+title: "YouTube transcript MCP server for Claude, Cursor and AI agents"
+description: "Let Claude, Cursor or any MCP client fetch YouTube transcripts itself, with a two-line config and no server to host."
+---
+
 # YouTube transcript MCP server for Claude, Cursor and other AI agents
 
 Let your AI agent fetch the transcript of any YouTube video itself. Apify's MCP server exposes an Actor as a tool, so there's nothing to install or host.

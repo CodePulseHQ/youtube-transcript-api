@@ -1,3 +1,9 @@
+---
+layout: default
+title: "How to get a YouTube transcript without the YouTube Data API"
+description: "Get a YouTube video's transcript without an API key, OAuth or Google Cloud project. One request, plus DIY options and when to use each."
+---
+
 # How to get a YouTube transcript without the YouTube Data API
 
 **Short answer:** you don't need the YouTube Data API for public videos. Send the video link to a transcript service (or fetch the caption track yourself) and read the text back. No Google Cloud project, API key or OAuth needed.
