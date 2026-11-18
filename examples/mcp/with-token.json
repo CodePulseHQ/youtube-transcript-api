@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "youtube-transcripts": {
+      "url": "https://mcp.apify.com?tools=codepulsehq/youtube-transcript-api",
+      "headers": { "Authorization": "Bearer YOUR_APIFY_TOKEN" }
+    }
+  }
+}

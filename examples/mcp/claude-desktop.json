@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "youtube-transcripts": {
+      "url": "https://mcp.apify.com?tools=codepulsehq/youtube-transcript-api"
+    }
+  }
+}
