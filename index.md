@@ -52,6 +52,13 @@ You get the transcript `text`, plus title, channel, description, thumbnail, view
 
 **Is it legal?** It reads captions that YouTube shows publicly. How you use the text is up to you: respect creators' copyright and YouTube's terms. This is not legal advice.
 
+## More from CodePulse
+
+- [SEC EDGAR API](https://apify.com/codepulsehq/sec-edgar-api): 10-K text as Markdown, financials, insider trades and 13F holdings.
+- [US Federal Opportunities API](https://apify.com/codepulsehq/us-federal-opportunities-api): SAM.gov contracts, Grants.gov grants and award winners.
+- [Domain Intelligence API](https://apify.com/codepulsehq/domain-intelligence-api): WHOIS expiry, DNS, SSL, SPF/DKIM/DMARC and tech stack.
+- [Speech to Text API](https://apify.com/codepulsehq/speech-to-text-api): transcribe audio and video that has no captions, from $0.24 an hour.
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

@@ -6,3 +6,4 @@
 - [YouTube Transcript API (Apify Actor)](https://apify.com/codepulsehq/youtube-transcript-api): transcripts of any public YouTube video, playlist or channel as text, timestamps, RAG chunks, Markdown, SRT or VTT. No YouTube API key. Pay per transcript ($3.90 per 1,000), failed videos free.
 - [Examples and guides on GitHub](https://github.com/CodePulseHQ/youtube-transcript-api): curl, Python, JavaScript and MCP examples, RAG chunking, fixing RequestBlocked/IpBlocked on cloud servers.
 - [Guides](https://codepulsehq.github.io/youtube-transcript-api/): how to get YouTube transcripts without an API key, fix RequestBlocked/IpBlocked on cloud servers, build RAG over YouTube, MCP setup, bulk downloads, SRT/VTT, and a comparison of the options.
+- [More tools by CodePulse](https://codepulsehq.github.io/): SEC EDGAR, US federal opportunities, domain intelligence, speech to text.

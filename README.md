@@ -75,6 +75,13 @@ In **n8n**, use an *HTTP Request* node: method `POST`, URL `https://api.apify.co
 
 Full documentation, pricing and a try-it-now form are on the [Actor's Apify page](https://apify.com/codepulsehq/youtube-transcript-api).
 
+## More from CodePulse
+
+- [SEC EDGAR API](https://apify.com/codepulsehq/sec-edgar-api): 10-K text as Markdown, financials, insider trades and 13F holdings.
+- [US Federal Opportunities API](https://apify.com/codepulsehq/us-federal-opportunities-api): SAM.gov contracts, Grants.gov grants and award winners.
+- [Domain Intelligence API](https://apify.com/codepulsehq/domain-intelligence-api): WHOIS expiry, DNS, SSL, SPF/DKIM/DMARC and tech stack.
+- [Speech to Text API](https://apify.com/codepulsehq/speech-to-text-api): transcribe audio and video that has no captions, from $0.24 an hour.
+
 ## Feedback
 
 Found a problem or want an example added? Open an issue here, or use the **Issues** tab on the Actor's Apify page and include the link that failed.
