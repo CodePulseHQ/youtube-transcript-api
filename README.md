@@ -4,6 +4,8 @@ Get the transcript of any public YouTube video, playlist or channel, as clean te
 
 This repository contains runnable examples and how-to guides for the **[YouTube Transcript API Actor on Apify](https://apify.com/codepulsehq/youtube-transcript-api)**, made by [CodePulse](https://codepulsehq.com). The examples call that hosted Actor, so you need a free [Apify](https://apify.com) account and API token. The code in this repo is MIT licensed; the Actor itself is a paid, hosted service ($3.90 per 1,000 transcripts, failed videos free).
 
+**Read the guides as a website:** [codepulsehq.github.io/youtube-transcript-api](https://codepulsehq.github.io/youtube-transcript-api/)
+
 ## Quick start
 
 ```bash
