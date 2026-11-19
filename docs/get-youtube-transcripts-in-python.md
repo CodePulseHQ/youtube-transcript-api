@@ -4,6 +4,8 @@ title: "How to get YouTube transcripts in Python (without getting blocked)"
 description: "Get YouTube transcripts in Python with a few lines of code, for videos, playlists and whole channels, without getting blocked on cloud servers."
 ---
 
+# How to get YouTube transcripts in Python (without getting blocked)
+
 You want the transcript of a YouTube video as text. Maybe for a summary, a search index, or training data for an LLM. The obvious route is a small library, and it works on your laptop. Then you move it to a server and it stops, because YouTube blocks most datacenter IP addresses after a request or two.
 
 This post shows the short way: call a hosted API from Python, get text back, and let someone else deal with the blocking.

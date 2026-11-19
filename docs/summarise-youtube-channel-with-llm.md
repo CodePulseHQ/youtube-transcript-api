@@ -4,6 +4,8 @@ title: "Summarise every video on a YouTube channel with an LLM (Python)"
 description: "Fetch transcripts for a channel, summarise each video with an LLM and ask questions across all of them. Python example."
 ---
 
+# Summarise every video on a YouTube channel with an LLM (Python)
+
 A channel posts 200 videos and you want to know what it actually says about a topic. Watching is out. Transcripts plus an LLM is the practical answer, and the pipeline is small: fetch transcripts, summarise each, then ask questions across them.
 
 ## Step 1: get the transcripts
