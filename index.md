@@ -29,6 +29,8 @@ You get the transcript `text`, plus title, channel, description, thumbnail, view
 ## Guides {#guides}
 
 <div class="cards">
+  <div class="card"><h3><a href="docs/summarise-youtube-channel-with-llm.md">Summarise a whole YouTube channel with an LLM</a></h3><p>Fetch transcripts for a channel, summarise each video with an LLM and ask questions across all of them.</p></div>
+  <div class="card"><h3><a href="docs/get-youtube-transcripts-in-python.md">How to get YouTube transcripts in Python</a></h3><p>Get YouTube transcripts in Python with a few lines of code, for videos, playlists and whole channels, without getting blocked on cloud servers.</p></div>
   <div class="card"><h3><a href="docs/get-youtube-transcript-without-api-key.md">Without the YouTube Data API</a></h3><p>Why the official API can't do it, and the one-request alternative.</p></div>
   <div class="card"><h3><a href="docs/fix-requestblocked-ipblocked-on-aws.md">Fix RequestBlocked / IpBlocked</a></h3><p>Why scripts fail on AWS and cloud servers, and five fixes.</p></div>
   <div class="card"><h3><a href="docs/youtube-transcripts-for-rag.md">Transcripts for RAG</a></h3><p>Chunks with start and end times, so answers cite the exact second.</p></div>
